@@ -1,2 +1,1 @@
-# Pixel-ArtMaker
-AlcwithGoogle challenge
+# pixel-artmaker
